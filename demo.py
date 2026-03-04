@@ -1,5 +1,9 @@
 print("bueno bro, perdon por tener menos iq")
-import sys
+
+list = []
+
+def stack(element):
+    list.append(element)
 
 def preguntar():
     while True:
