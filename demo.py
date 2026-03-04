@@ -1,2 +1,5 @@
 print("Adiós")
 print("I am the best in this")
+print("chao pescado")
+print("hola")
+print("El santi es el de verde")
